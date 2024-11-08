@@ -27,7 +27,7 @@ This tool processes JSON data containing text block information (likely from ser
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pdf-document-reconstructor.git
+git clone https://github.com/josepaulinog/pdf-document-reconstructor.git
 
 # Install dependencies
 pip install pandas reportlab
@@ -82,14 +82,6 @@ The processor includes comprehensive error handling:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[MIT License](LICENSE)
-
-## Author
-
-[Your Name]
 
 ## Acknowledgments
 
